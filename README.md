@@ -3,7 +3,7 @@
 Welcome to the Calculator Website! This project demonstrates a simple yet functional calculator built using HTML, CSS, and JavaScript. Check out the live demo and feel free to explore the source code.
 
 ## Live Demo
-https://github.com/user-attachments/assets/26c7d466-b015-4f0e-abd4-578a78704a95
+https://github.com/user-attachments/assets/7abf30db-2e08-4b15-ba1c-237226edddf0
 ## Features
 
 - Basic arithmetic operations: addition, subtraction, multiplication, and division.
